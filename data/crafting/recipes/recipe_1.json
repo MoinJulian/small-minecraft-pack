@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shape",
+  "pattern": ["###", "###", "###"],
+  "key": {
+    "#": {
+      "item": "minecraft:cobbelstone"
+    }
+  },
+  "result": {
+    "item": "minecraft:diamond"
+  }
+}
